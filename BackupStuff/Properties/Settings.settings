@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="BackupHelper.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="backupPath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">backupPath</Value>
+    </Setting>
+    <Setting Name="pathOneDrive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pathOneDrive</Value>
+    </Setting>
+    <Setting Name="pathSourceFiles" Type="System.String" Scope="User">
+      <Value Profile="(Default)">pathSourceFiles</Value>
+    </Setting>
+    <Setting Name="savePath" Type="System.String" Scope="User">
+      <Value Profile="(Default)">savePath</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
